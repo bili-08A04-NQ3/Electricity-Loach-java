@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: top.niqiu.Main
+Class-Path: fastjson-2.0.1.jar fastjson2-2.0.1.jar fastjson2-extension-2
+ .0.1.jar
+

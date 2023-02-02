@@ -1,0 +1,4 @@
+{
+  "weatherAPI" : "https://api.seniverse.com/v3/weather/daily.json",
+  "weatherAPIKey" : "S6JOK9adH4c36m7wx"
+}
